@@ -1,0 +1,7 @@
+.header__lang-links {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin-top: auto;
+  margin-bottom: 4px;
+}
