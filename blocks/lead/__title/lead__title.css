@@ -1,13 +1,14 @@
 .lead__title {
   flex-wrap: wrap;
-  margin: 0 auto 32px;
-  font-weight: bold;
+  margin: 0 auto;
+  font-weight: 900;
+  font-style: bold;
   font-size: 96px;
-  line-height: 1.04;
+  line-height: 100px;
   color: #fff;
   text-align: center;
+  align-self: center;
   max-width: 720px;
-  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 568px) {

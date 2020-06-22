@@ -8,11 +8,12 @@
   position: relative;
   text-align: center;
   padding: 0;
+  z-index: 2;
 }
 
 @media screen and (max-width: 568px) {
   .cover__subtitle {
-    max-width: 228px;
+    max-width: 90%;
     font-size: 14px;
     line-height: 1.14;
   }

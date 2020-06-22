@@ -5,22 +5,15 @@
 @import url(__content/cover__content.css);
 
 .cover {
-  position: relative;
   margin: 92px auto 0;
   max-width: 1184px;
   width: calc(100% - 96px);
-  background-image: url(../../images/cover-trains.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  object-fit: cover;
-  padding-bottom: 65.5%;
   box-sizing: border-box;
 }
 
 @media screen and (max-width: 1140px) {
   .cover {
-    width: 100%
+    width: 100%;
   }
 }
 
