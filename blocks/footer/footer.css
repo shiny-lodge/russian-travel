@@ -26,7 +26,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 740px) {
   .footer {
     margin: 64px 0 24px 16px;
     justify-content: start;

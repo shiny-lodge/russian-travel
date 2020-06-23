@@ -9,9 +9,9 @@
 
 @media screen and (max-width: 568px) {
   .intro__title {
-  font-size: 32px;
-  line-height: 1.09;
-  max-width: 250px;
-  margin-bottom: 36px;
+    font-size: 32px;
+    line-height: 1.09;
+    max-width: 250px;
+    margin-bottom: 36px;
   }
 }
