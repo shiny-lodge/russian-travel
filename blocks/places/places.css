@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 740px) {
   .places {
     max-width: 720px;
     gap: 48px;

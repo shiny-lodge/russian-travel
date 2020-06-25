@@ -11,7 +11,7 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 740px) {
   .place__link {
     opacity: 0;
     height: 0;

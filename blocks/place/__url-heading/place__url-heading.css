@@ -7,7 +7,7 @@
   padding-bottom: 12px;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 740px) {
   .place__url-heading {
     opacity: 0;
     height: 0;
